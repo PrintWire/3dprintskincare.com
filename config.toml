@@ -11,14 +11,14 @@ theme = "printwire-theme"
   fontPrimary    = "Josefin Sans"
   fontSecondary  = "Lato"
   fontURL        = "https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300;400;500;600;700&family=Lato:wght@300;400;700;900&display=swap"
-  ogImage        = "https://images.unsplash.com/photo-1550861959-108e43844b8e?w=1200&q=80"
+  ogImage        = "/images/01_pump_bottle.png"
   favicon        = "🧴"
   pubmedQuery    = "3D+printing+cosmetic+biocompatible+skincare+beauty+device"
   contactEmail   = "maxdavisgroup@gmail.com"
   web3formsKey   = "6f33053b-6d08-414b-9615-665f88c98da8"
   xometryId      = "XOMETRY_AFFILIATE_ID"
   domain         = "3dprintskincare.com"
-  heroImage      = "https://images.unsplash.com/photo-1550861959-108e43844b8e?w=1200&q=80"
+  heroImage      = "/images/01_pump_bottle.png"
 
 [[params.stats]]
   number = "Skin-Safe"
@@ -39,25 +39,25 @@ theme = "printwire-theme"
 [[params.services]]
   title = "Facial Tool Manufacturing"
   icon  = "◎"
-  image = "https://images.unsplash.com/photo-1610394575757-f90124d05f9f?w=600&q=80"
+  image = "/images/03_facial_roller.png"
   short = "Custom gua sha tools, jade rollers, cleansing heads, and microneedling device bodies in skin-safe materials."
 
 [[params.services]]
   title = "Device Housings & Enclosures"
   icon  = "⬡"
-  image = "https://images.unsplash.com/photo-1760450913032-8462c3e7b3e1?w=600&q=80"
+  image = "/images/20_led_mount.png"
   short = "LED therapy, RF lifting, ultrasonic, and EMS device housings in cosmetic-grade finishes."
 
 [[params.services]]
   title = "Packaging Prototypes"
   icon  = "✦"
-  image = "https://images.unsplash.com/photo-1698674388698-f22228a79879?w=600&q=80"
+  image = "/images/06_serum_dropper.png"
   short = "Custom airless pump bottles, dropper vials, jar lids, and dispensers — from CAD to shelf in 48 hours."
 
 [[params.services]]
   title = "Microfluidic & Lab Components"
   icon  = "◈"
-  image = "https://images.unsplash.com/photo-1610394575757-f90124d05f9f?w=600&q=80"
+  image = "/images/16_biocompatible.png"
   short = "Skin patch testing fixtures, sample applicators, ingredient delivery microchannels, and R&D lab tools."
 
 [markup.goldmark.renderer]

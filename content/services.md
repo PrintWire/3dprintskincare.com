@@ -2,7 +2,7 @@
 title: "Services"
 description: "3D printing services for skincare devices, packaging, and beauty product development."
 layout: "services"
-image: "https://images.unsplash.com/photo-1610394575757-f90124d05f9f?w=1200&q=80"
+image: "/images/06_serum_dropper.png"
 ---
 
 ## Facial Tool Manufacturing
