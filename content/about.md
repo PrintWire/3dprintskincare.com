@@ -2,7 +2,7 @@
 title: "About 3D Print Skincare"
 description: "The additive manufacturing resource for beauty brands, formulators, and skincare device developers."
 layout: "about"
-image: "/images/01_pump_bottle.png"
+image: "/images/05_dual_extrusion.png"
 ---
 
 ## Where Beauty Meets Advanced Manufacturing

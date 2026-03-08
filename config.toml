@@ -11,7 +11,7 @@ theme = "printwire-theme"
   fontPrimary    = "Josefin Sans"
   fontSecondary  = "Lato"
   fontURL        = "https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300;400;500;600;700&family=Lato:wght@300;400;700;900&display=swap"
-  ogImage        = "/images/01_pump_bottle.png"
+  ogImage        = "/images/01_cosmetic_transparent.png"
   favicon        = "🧴"
   pubmedQuery    = "3D+printing+cosmetic+biocompatible+skincare+beauty+device"
   contactEmail   = "maxdavisgroup@gmail.com"
@@ -39,25 +39,25 @@ theme = "printwire-theme"
 [[params.services]]
   title = "Facial Tool Manufacturing"
   icon  = "◎"
-  image = "/images/03_facial_roller.png"
+  image = "/images/02_layer_texture.png"
   short = "Custom gua sha tools, jade rollers, cleansing heads, and microneedling device bodies in skin-safe materials."
 
 [[params.services]]
   title = "Device Housings & Enclosures"
   icon  = "⬡"
-  image = "/images/20_led_mount.png"
+  image = "/images/02_mask_applicator.png"
   short = "LED therapy, RF lifting, ultrasonic, and EMS device housings in cosmetic-grade finishes."
 
 [[params.services]]
   title = "Packaging Prototypes"
   icon  = "✦"
-  image = "/images/06_serum_dropper.png"
+  image = "/images/03_binder_jet.png"
   short = "Custom airless pump bottles, dropper vials, jar lids, and dispensers — from CAD to shelf in 48 hours."
 
 [[params.services]]
   title = "Microfluidic & Lab Components"
   icon  = "◈"
-  image = "/images/16_biocompatible.png"
+  image = "/images/03_facial_roller.png"
   short = "Skin patch testing fixtures, sample applicators, ingredient delivery microchannels, and R&D lab tools."
 
 [markup.goldmark.renderer]
