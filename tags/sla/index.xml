@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SLA on 3D Print Skincare</title>
+    <link>https://3dprintskincare.com/tags/sla/</link>
+    <description>Recent content in SLA on 3D Print Skincare</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 08 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://3dprintskincare.com/tags/sla/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Skin-Safe 3D Printing Materials: ISO 10993 Biocompatibility for Beauty Devices</title>
+      <link>https://3dprintskincare.com/articles/skin-safe-materials/</link>
+      <pubDate>Sun, 08 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://3dprintskincare.com/articles/skin-safe-materials/</guid>
+      <description>Not all 3D printing resins are safe for sustained skin contact. This guide covers which materials pass ISO 10993 biocompatibility testing and what that means for facial device development.</description>
+    </item>
+  </channel>
+</rss>
