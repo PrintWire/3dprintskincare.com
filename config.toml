@@ -1,10 +1,18 @@
 baseURL = "https://3dprintskincare.com/"
 languageCode = "en-us"
 title = "3D Print Skincare"
-theme = "printwire-theme"
+
+[outputs]
+  home = ["HTML", "JSON"]
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
 
 [params]
-  siteName       = "3D Print Skincare"
+siteName      = "3D Print Skincare"
+logoHtml      = '3D&nbsp;PRINT&nbsp;<span class="ed-logo-accent">SKINCARE</span>'
   tagline        = "Custom skincare device and packaging manufacturing via additive manufacturing — no mold tooling, no minimum order."
   primaryColor   = "#f472b6"
   bgColor        = "#0d0709"
