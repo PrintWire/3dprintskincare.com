@@ -68,9 +68,6 @@ logoHtml      = '3D&nbsp;PRINT&nbsp;<span class="ed-logo-accent">SKINCARE</span>
   image = "/images/03_facial_roller.png"
   short = "Skin patch testing fixtures, sample applicators, ingredient delivery microchannels, and R&D lab tools."
 
-[markup.goldmark.renderer]
-  unsafe = true
-
 [[menu.main]]
   name   = "Home"
   url    = "/"
