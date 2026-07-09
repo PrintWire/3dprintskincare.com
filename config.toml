@@ -19,7 +19,7 @@ logoHtml      = '3D&nbsp;PRINT&nbsp;<span class="ed-logo-accent">SKINCARE</span>
   fontPrimary    = "Josefin Sans"
   fontSecondary  = "Lato"
   fontURL        = "https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300;400;500;600;700&family=Lato:wght@300;400;700;900&display=swap"
-  ogImage        = "/images/01_cosmetic_transparent.png"
+  ogImage        = "/images/04_vascularized_heart.png"
   favicon        = "🧴"
   pubmedQuery    = "3D+printing+cosmetic+biocompatible+skincare+beauty+device"
   contactEmail   = "maxdavisgroup@gmail.com"
